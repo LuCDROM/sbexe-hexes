@@ -7,8 +7,8 @@ body {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 
-  background: linear-gradient(180deg, rgba(141,170,214,1) 0%, rgba(107,114,212,1) 100%);
-  background-color: rgba(141,170,214,1);
+  background: linear-gradient(180deg, rgba(232,156,109,1) 0%, rgba(219,111,78,1) 100%);
+  background-color: rgba(232,156,109,1);
   min-height: 100vh;
 }
 
