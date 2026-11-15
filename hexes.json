@@ -1,32 +1,22 @@
 {
 	"kids":{
-		"name":"Homestuck Kids Text",
+		"name":"sburb.EXE Kids Text",
 		"col":1,
 		"colors":{
-			"june":"0715cd",
-			"rose":"b536da",
-			"dave":"e00707",
-			"jade":"4ac925",
-			"jane":"00d5f2",
-			"jake":"1f9400",
-			"roxy":"ff6ff2",
-			"dirk":"f2a400"
+			"abby":"0715cd",
+			"kiki":"b536da",
+			"zach":"e00707",
+			"luke":"4ac925",
+			"TE":"00d5f2",
+			"PA":"1f9400"
 		}
 	},
 	"npcs":{
-		"name":"Homestuck Kids NPCs",
+		"name":"sburb.EXE Sprites",
 		"col":1,
 		"colors":{
-			"jaspersprite": "f141ef",
-			"jasprose": [
-				"f141ef",
-				"b536da"
-			],
-			"davepeta": [
-				"4ac925",
-				"f2a400"
-			],
-			"fedorafreak": "4b4b4b"
+			"deathsprite": "f141ef",
+			"raysprite": "4b4b4b"
 		}
 	},
 	"trolls":{
