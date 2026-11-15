@@ -3,483 +3,57 @@
 		"name":"sburb.EXE Kids Text",
 		"col":1,
 		"colors":{
-			"abby":"0715cd",
-			"kiki":"b536da",
-			"zach":"e00707",
-			"luke":"4ac925",
-			"TE":"00d5f2",
-			"PA":"1f9400"
+			"abby":"ff5900",
+			"kiki":"912dff",
+			"zach":"ff1492",
+			"luke":"bc0000",
+			"TE":"79bb00",
+			"PA":"2eb8ae"
 		}
 	},
-	"npcs":{
-		"name":"sburb.EXE Sprites",
-		"col":1,
-		"colors":{
-			"deathsprite": "f141ef",
-			"raysprite": "4b4b4b"
-		}
-	},
-	"trolls":{
-		"name":"Homestuck Trolls Text",
+	"sprites":{
+		"name":"sburb.EXE Sprites Text",
 		"col":2,
 		"colors":{
-			"aradia":"a10000",
-			"tavros":"a15000",
-			"sollux":"a1a100",
-			"karkat":"626262",
-			"nepeta":"416600",
-			"kanaya":"008141",
-			"terezi":"008282",
-			"vriska":"005682",
-			"equius":"000056",
-			"gamzee":"2b0057",
-			"eridan":"6a006a",
-			"feferi":"77003c"
+			"deathsprite": "ff8d51",
+			"raysprite": "ac60ff"
 		}
 	},
-	"trollalts":{
-		"name":"Homestuck Trolls Alt Text",
+	"shirtcolors":{
+		"name":"sburb.EXE Shirt Symbols",
+		"col":1,
+		"colors":{
+			"abby":[
+				"9fe348",
+				"ff7724"
+			],
+			"kiki":"912dff",
+			"zach":"ff2667",
+			"luke":"ba0000",
+			"TE":"79bb00",
+			"PA":"2eb8ae"
+		}
+	},
+  "spritecolors":{
+		"name":"sburb.EXE Sprites Colors",
 		"col":2,
 		"colors":{
-			"karkat red": "ff0000",
-			"horuss (line 1) _ministrife": "0022cb",
-			"equius / horuss(line 2) / aradiabot ministrife": "0022cf",
-			"gamzee scratch _interlude": "4200b0",
-			"gamzee openbound 2 / kurloz": "6c00da"
+			"deathsprite": "ffb891",
+			"raysprite": "ac60ff"
 		}
 	},
-	"cherubs":{
-		"name":"Cherubs + The Felt",
+	"othercolors":{
+		"name":"Other Colors",
 		"col":1,
 		"colors":{
-			"calliope":"929292",
-			"caliborn":"323232",
-			"lord english / felt":"2ed73a",
-			"doc scratch":"ffffff",
-			"itchy / stitch":"ffea00",
-			"doze / sawbuck":"4040fd",
-			"trace / matchsticks":"df0000",
-			"clover / eggs":"a357ff",
-			"fin / biscuits":"ff6000",
-			"die / quarters":"008140",
-			"crowbar / cans":"950015"
-		}
-	},
-	"beyondcanon": {
-		"name":"Beyond Canon",
-		"col":1,
-		"colors":{
-			"harry anderson _egbert":"0671cd",
-			"tavros _crocker":"2b0057",
-			"yiffy _lalonde-harley":"D00009",
-			"lylac": "8e5594",
-			"AA": "801108",
-			"del'fi": "018e71",
-			"swiss": "9aa4b0",
-			"CT": "81CE42",
-			"TC": "701dff",
-			"silas": "71d666",
-			"avril": "ffc600",
-			"imode": "bdb49c",
-			"ruthie": "a10000"
-		}
-	},
-	"epilogue":{
-		"name":"Epilogue Alts",
-		"col":1,
-		"colors":{
-			"epilogue _karkat":"7c7e81",
-			"epilogue _eridan":"7e0048",
-			"epilogue _calliope":"a1a3a6",
-			"epilogue _caliborn":"009c68",
-			"epilogue _jane":"0097d7",
-			"epilogue _davepeta":[
-				"416600",
-				"f2a400"
+			"luke's ankle monitor":[
+				"2bff00",
+				"232323"
+			],
+			"TE's glasses":[
+				"a0f700",
+				"79bb00"
 			]
-		}
-	},
-	"shirtkids":{
-		"name":"Homestuck Shirt Symbols",
-		"col":2,
-		"colors":{
-			"june":"38F43D",
-			"rose":"CB87F6",
-			"dave":"FF0000",
-			"jade":"53A3FF",
-			"jane":"00D5F2",
-			"jake":"1F9400",
-			"roxy":"FF6FF2",
-			"dirk":"ff7607",
-
-      
-			"aradia":"a10000",
-			"tavros":"A25203",
-			"sollux":"a1a100",
-			"karkat":"626262",
-			"nepeta":"416600",
-			"kanaya":"078446",
-			"terezi":"008282",
-			"vriska":"004182",
-			"equius":"0021CB",
-			"gamzee":"440A7F",
-			"eridan":"6a006a",
-			"feferi":"B11262"
-		}
-	},
-  "spriteaspects":{
-		"name":"Aspects (From Sprites)",
-		"col":1,
-		"colors":{
-			"breath":[
-				"10E0FF",
-				"0086EB"
-			],
-			"blood":[
-				"BA1915",
-				"3d1909"
-			],
-			"space":[
-				"ffffff",
-				"000000"
-			],
-			"time":[
-				"ff2106",
-				"b70d0e"
-			],
-			"light":[
-				"fff547",
-				"f98100"
-			],
-			"void":[
-				"00164F",
-				"033476"
-			],
-			"mind":[
-				"46fbc4",
-				"50b250"
-			],
-			"heart":[
-				"bd1864",
-				"6e0e2e"
-			],
-			"life":[
-				"77c350",
-				"CCC3B4"
-			],
-			"doom":[
-				"000000",
-				"20401f"
-			],
-			"hope":[
-				"fdfdfd",
-				"FFE094"
-			],
-			"rage":[
-				"9c4dad",
-				"391e71"
-			]
-		}
-	},
-	"tezaspects":{
-		"name":"Aspects (From the Extended Zodiac)",
-		"col":1,
-		"colors":{
-			"breath":[
-				"47dff9",
-				"4379e6"
-			],
-			"blood":[
-				"ba1016",
-				"3e1601"
-			],
-			"space":[
-				"ffffff",
-				"000000"
-			],
-			"time":[
-				"ff2106",
-				"b70d0e"
-			],
-			"light":[
-				"f6fa4e",
-				"f0840c"
-			],
-			"void":[
-				"001957",
-				"104ea2"
-			],
-			"mind":[
-				"06ffc9",
-				"00923d"
-			],
-			"heart":[
-				"bd1864",
-				"55142a"
-			],
-			"life":[
-				"72eb34",
-				"a49787"
-			],
-			"doom":[
-				"000000",
-				"306800"
-			],
-			"hope":[
-				"fdfdfd",
-				"ffde55"
-			],
-			"rage":[
-				"9c4dad",
-				"520c61"
-			]
-		}
-	},
-	"tezblood":{
-		"name":"Blood (From the Extended Zodiac)",
-		"col":2,
-		"colors":{
-			"rust":"a10000",
-			"bronze":"a25203",
-			"gold":"a1a100",
-			"lime":"678900",
-			"olive":"336601",
-			"jade":"078446",
-			"teal":"008282",
-			"blue":"004182",
-			"indigo":"0021cb",
-			"purple":"440a7f",
-			"violet":"6a006a",
-			"fuchsia":"99004d"
-		}
-	},
-	"hiveblood":{
-		"name":"Blood (From Hiveswap)",
-		"col":2,
-		"colors":{
-			"rust Act 1":"bb0000",
-			"rust":"f42123",
-			"bronze Act 1":"b25900",
-			"bronze":"cd7f32",
-			"gold":"abab1a",
-			"olive":"71a020",
-			"jade":"2caa6b",
-			"teal":"26baba",
-			"blue":"3796c6",
-			"indigo":"6464ff",
-			"purple":"a954ff",
-			"violet":"791a79",
-			"fuchsia Act 1":"6e003c",
-			"fuchsia":"d121c1"
-		}
-	},
-	"moons":{
-		"name":"Moons",
-		"col":1,
-		"colors":{
-			"prospit _(TEZ)": [
-				"ffff01",
-				"e49700"
-			],
-			"prospit _(Sprite)": [
-				"ffff00",
-				"ffe134"
-			],
-			"derse _(TEZ)": [
-				"ff01fe",
-				"9700e4"
-			],
-			"derse _(Sprite)": [
-				"f191ff",
-				"e000ff"
-			]
-		}
-	},
-	"horns":{
-		"name":"Troll Anatomy",
-		"col":1,
-		"colors":{
-			"skin":"C4C4C4",
-			"eyes / horn tip":"FFBA29",
-			"horn mid":"FF9000",
-			"horn base":"FF4200",
-			"eyebags 1":"9D9D9D",
-			"eyebags 2":"B2B2B2",
-			"hair":"000000",
-			"limeblood":"658200"
-		}
-	},
-	"romance":{
-		"name":"Troll Romance",
-		"col":1,
-		"colors":{
-			"flushed":"bf0000",
-			"pale":"c39797",
-			"ashen":"585858",
-			"caliginous":"000000"
-		}
-	},
-	"sburb":{
-		"name":"Sburb Versions",
-		"col":1,
-		"colors":{
-			"beta":"4ce24e",
-			"alpha":"ff0000",
-			"sgrub":"900fff"
-		}
-	},
-	"trickster":{
-		"name":"Trickster Mode Text Animation",
-		"col":1,
-		"colors":{
-			"red":"ffd1d1",
-			"orange":"ffe6d1",
-			"yellow":"fff6d1",
-			"green":"d1ffe3",
-			"cyan":"d1f9ff",
-			"blue":"d1dcff",
-			"purple":"f0d1ff",
-			"pesterlog _background":"ff73fd"
-		}
-	},
-	"strife":{
-		"name":"Strife deck",
-		"col":2,
-		"colors":{
-			"raised back": "0e6037",
-			"main plate": "008c45",
-			"raised plate": "00e371",
-			"accent": "00c661"
-		}
-	},
-	"sylladex":{
-		"name":"Sylladex Modi (Main)",
-		"col":2,
-		"min-width": "30%",
-		"colors":{
-			"filo main": "ff067c",
-			"filo back": "9a2446",
-			"filo text": "b7fffd",
-			"fifo main": "ff6000",
-			"fifo back": "cf560c",
-			"fifo text": "00f5a1",
-			"array main": "06b6ff",
-			"array back": "1193d6",
-			"array text": "ff9caa",
-			"tree main": "96ff00",
-			"tree back": "7ca619",
-			"tree text": "f86659",
-			"hash main": "fff000",
-			"hash back": "e3cb00",
-			"hash text": "9553ff",
-			"memory main": "b949ff",
-			"memory back": "9c29e4",
-			"memory text": "ffffff",
-			"modus card front": "a2a2a2",
-			"modus card shadow": "bebebe"
-		}
-	},
-	"sillydex":{
-		"name":"Sylladex Modi (Silly)",
-		"col": 2,
-		"colors":{
-			"jenga _main": "040099",
-			"jenga _back": "6764c8",
-			"pictionary _main": "4f8b0a",
-			"pictionary _back": "234000",
-			"ouija _main": "e6d4a4",
-			"ouija _back": "5b4f3d",
-			"wallet _main": "8a5520",
-			"wallet _back": "673218",
-			"recipe _main": "ff0000",
-			"recipe _back": "c50000",
-			"puzzle _main": "003fd4",
-			"puzzle _back": "092955",
-			"tech-hop _main 1": "272727",
-			"tech-hop _main 2": "ff7b03",
-			"tech-hop _main 3": "8d8d8d",
-			"tech-hop _back": "000000",
-			"encryption _main": "4b4b4b",
-			"encryption _back": "000000",
-			"chastity _main": "868686",
-			"chastity _back": "585858",
-			"scratch & sniff _main 1": "fb00ff",
-			"scratch & sniff _main 2": "ae00ff",
-			"scratch & sniff _main 3": "0182ab",
-			"scratch & sniff _main 4": "7a1fff",
-			"scratch & sniff _back 1": "4800e4",
-			"scratch & sniff _back 2": "5900e4",
-			"eight ball _front": "0f04fa",
-			"eight ball _main": "000000",
-			"juju _main 1": "fd0000",
-			"juju _main 2": "c80000",
-			"juju _main 3": "18e700",
-			"juju _main 4": "00d515"
-		}
-	},
-	"godhoods":{
-		"name":"God Hood Sprite Accents",
-		"col":1,
-		"colors":{
-			"breath _main _outline": "0076f9",
-			"breath _shade": "006ee9",
-			"breath _shade _outline": "0062d0",
-			"breath _accent": "ffff00",
-			"blood _main _outline": "2c1106",
-			"blood _shade": "230100",
-			"blood _shade _outline": "290602",
-			"blood _accent": "ff2500",
-			"space _main _outline": "242424",
-			"space _shade": "2f2f30",
-			"space _shade _outline": "1d1d1d",
-			"space _accent": "ff0000",
-			"time _main _outline": "970203",
-			"time _shade": "510606",
-			"time _shade _outline": "400202",
-			"time _accent": "161616",
-			"light _main _outline": "E17500",
-			"light _shade": "Fa4700",
-			"light _shade _outline": "E94200",
-			"light _accent": "22a4ff",
-			"void _main _outline": "002a61",
-			"void _shade": "00154f",
-			"void _shade _outline": "00071A",
-			"void _accent": "1C1C1C",
-			"mind _main _outline": "3ea126",
-			"mind _shade": "3e6b1e",
-			"mind _shade _outline": "2d5817",
-			"mind _accent": "9a1200",
-			"heart _main _outline": "4e081f",
-			"heart _shade": "55142a",
-			"heart _shade _outline": "3d0b1c",
-			"heart _accent": "154620",
-			"life _main _outline": "AAA191",
-			"life _shade": "605542",
-			"life _shade _outline": "483F30",
-			"life _accent": "E800A4",
-			"doom _main _outline": "1d3224",
-			"doom _shade": "1d2c21",
-			"doom _shade _outline": "142118",
-			"doom _accent": "532241",
-			"hope _main _outline": "FFC331",
-			"hope _shade": "DF9F03",
-			"hope _shade _outline": "C79314",
-			"hope _accent": "FF4400",
-			"rage _main _outline": "1F0E44",
-			"rage _shade": "9C4DAD",
-			"rage _shade _outline": "7E42B3",
-			"rage _accent": "5F2B8C"
-		}
-	},
-	"psycho":{
-		"name":"Psycholonials",
-		"col":2,
-		"colors":{
-			"zhen": "b35fe9",
-			"abby": "6aa6ef",
-			"joculine": "ff3037",
-			"mizzlebip": "ff7aea",
-			"riotus": "0da13e"
 		}
 	}
 }
